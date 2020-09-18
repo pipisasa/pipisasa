@@ -1,16 +1,13 @@
-### Hi there 👋
+[<img alt="pipisasa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pipisasa&show_icons=true&hide_border=true">](https://github.com/pipisasa)
 
-<!--
-**pipisasa/pipisasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipisasa&layout=compact&hide_border=true)](https://github.com/pipisasa)
 
-Here are some ideas to get you started:
+### My projects that I did while studying
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=tanks_2.0&hide_border=true)](https://github.com/pipisasa/tanks_2.0)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=feed-the-kittens&hide_border=true)](https://github.com/pipisasa/feed-the-kittens)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=swapi&hide_border=true)](https://github.com/pipisasa/swapi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=fibonacci&hide_border=true)](https://github.com/pipisasa/fibonacci)
+
+### My first project 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=the_Bivvi_Hostel_LandingPage&hide_border=true)](https://github.com/pipisasa/the_Bivvi_Hostel_LandingPage)
