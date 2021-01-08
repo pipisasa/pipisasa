@@ -2,17 +2,18 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipisasa&layout=compact&hide_border=true)](https://github.com/pipisasa)
 
-### My projects that I did while studying
-
+### For Fun
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=labirint_algoritm&hide_border=true)](https://github.com/pipisasa/labirint_algoritm)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=tanks_2.0&hide_border=true)](https://github.com/pipisasa/tanks_2.0)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=tank_canvas&hide_border=true)](https://github.com/pipisasa/tank_canvas)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=feed-the-kittens&hide_border=true)](https://github.com/pipisasa/feed-the-kittens)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=swapi&hide_border=true)](https://github.com/pipisasa/swapi)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=fibonacci&hide_border=true)](https://github.com/pipisasa/fibonacci)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=tic-tac-toe&hide_border=true)](https://github.com/pipisasa/tic-tac-toe)
+### My projects that I did while studying
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=swapi&hide_border=true)](https://github.com/pipisasa/swapi)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=market-template&hide_border=true)](https://github.com/pipisasa/market-template)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=react-hooks-todo&hide_border=true)](https://github.com/pipisasa/react-hooks-todo)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=simple-shop-api&hide_border=true)](https://github.com/pipisasa/simple-shop-api)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=tic-tac-toe&hide_border=true)](https://github.com/pipisasa/tic-tac-toe)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=graphql-todo-api&hide_border=true)](https://github.com/pipisasa/graphql-todo-api)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=react-app-template&hide_border=true)](https://github.com/pipisasa/react-app-template)
 
