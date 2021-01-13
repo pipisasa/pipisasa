@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipisasa&layout=compact&hide_border=true)](https://github.com/pipisasa)
 
 ### For Fun
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=labirint_algoritm&hide_border=true)](https://github.com/pipisasa/labirint_algoritm)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=labirint_algorithm&hide_border=true)](https://github.com/pipisasa/labirint_algorithm)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=tanks_2.0&hide_border=true)](https://github.com/pipisasa/tanks_2.0)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=tank_canvas&hide_border=true)](https://github.com/pipisasa/tank_canvas)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=feed-the-kittens&hide_border=true)](https://github.com/pipisasa/feed-the-kittens)
