@@ -19,7 +19,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=graphql-todo-api&hide_border=true)](https://github.com/pipisasa/graphql-todo-api)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=react-app-template&hide_border=true)](https://github.com/pipisasa/react-app-template)
 
-### my projects on HAKATHONS
+### my projects on HACKATHONS
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=sep_frontend&hide_border=true)](https://github.com/pipisasa/sep_frontend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=sep_backend&hide_border=true)](https://github.com/pipisasa/sep_backend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=sanaripton-frontend&hide_border=true)](https://github.com/pipisasa/sanaripton-frontend)
