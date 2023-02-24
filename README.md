@@ -1,7 +1,6 @@
-[<img alt="pipisasa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pipisasa&show_icons=true&hide_border=true">](https://github.com/pipisasa)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipisasa&layout=compact&hide_border=true)](https://github.com/pipisasa)
-
+| Some Statistics | Welcome |
+| :---         |          ---: |
+| [<img alt="pipisasa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pipisasa&show_icons=true&hide_border=true">](https://github.com/pipisasa)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipisasa&layout=compact&hide_border=true)](https://github.com/pipisasa) | <img width="453" alt="Screen Shot 2023-02-24 at 20 08 48" src="https://user-images.githubusercontent.com/54534600/221198994-a0354469-3659-4bd6-8e4d-9423ff6fc689.png">   |
 ### For Fun
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=barnsley_fern&hide_border=true)](https://github.com/pipisasa/barnsley_fern)
