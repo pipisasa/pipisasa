@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipisasa&layout=compact&hide_border=true)](https://github.com/pipisasa)
 
 ## Open Source
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=we-are-kyrgyz-republic-extention&hide_border=true)](https://github.com/pipisasa/barnsley_fern)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=we-are-kyrgyz-republic-extention&hide_border=true)](https://github.com/pipisasa/we-are-kyrgyz-republic-extention)
 
 ### For Fun
 
