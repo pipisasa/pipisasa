@@ -1,20 +1,20 @@
 
-[<img alt="pipisasa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pipisasa&show_icons=true&hide_border=true">](https://github.com/pipisasa)
+[<img alt="pipisasa's Github Stats" src="https://github-readme-stats-extended.vercel.app/api?username=pipisasa&show_icons=true&hide_border=true">](https://github.com/pipisasa)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipisasa&layout=compact&hide_border=true)](https://github.com/pipisasa)
+[![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=pipisasa&layout=compact&hide_border=true)](https://github.com/pipisasa)
 
 ## Open Source
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=we-are-kyrgyz-republic-extention&hide_border=true)](https://github.com/pipisasa/we-are-kyrgyz-republic-extention)
+[![ReadMe Card](https://github-readme-stats-extended.vercel.app/api/pin/?username=pipisasa&repo=we-are-kyrgyz-republic-extention&hide_border=true)](https://github.com/pipisasa/we-are-kyrgyz-republic-extention)
 
 ### For Fun
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=barnsley_fern&hide_border=true)](https://github.com/pipisasa/barnsley_fern)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=labirint_algorithm&hide_border=true)](https://github.com/pipisasa/labirint_algorithm)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=tanks_2.0&hide_border=true)](https://github.com/pipisasa/tanks_2.0)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=tank_canvas&hide_border=true)](https://github.com/pipisasa/tank_canvas)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=feed-the-kittens&hide_border=true)](https://github.com/pipisasa/feed-the-kittens)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=fibonacci&hide_border=true)](https://github.com/pipisasa/fibonacci)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=tic-tac-toe&hide_border=true)](https://github.com/pipisasa/tic-tac-toe)
+[![ReadMe Card](https://github-readme-stats-extended.vercel.app/api/pin/?username=pipisasa&repo=barnsley_fern&hide_border=true)](https://github.com/pipisasa/barnsley_fern)
+[![ReadMe Card](https://github-readme-stats-extended.vercel.app/api/pin/?username=pipisasa&repo=labirint_algorithm&hide_border=true)](https://github.com/pipisasa/labirint_algorithm)
+[![ReadMe Card](https://github-readme-stats-extended.vercel.app/api/pin/?username=pipisasa&repo=tanks_2.0&hide_border=true)](https://github.com/pipisasa/tanks_2.0)
+[![ReadMe Card](https://github-readme-stats-extended.vercel.app/api/pin/?username=pipisasa&repo=tank_canvas&hide_border=true)](https://github.com/pipisasa/tank_canvas)
+[![ReadMe Card](https://github-readme-stats-extended.vercel.app/api/pin/?username=pipisasa&repo=feed-the-kittens&hide_border=true)](https://github.com/pipisasa/feed-the-kittens)
+[![ReadMe Card](https://github-readme-stats-extended.vercel.app/api/pin/?username=pipisasa&repo=fibonacci&hide_border=true)](https://github.com/pipisasa/fibonacci)
+[![ReadMe Card](https://github-readme-stats-extended.vercel.app/api/pin/?username=pipisasa&repo=tic-tac-toe&hide_border=true)](https://github.com/pipisasa/tic-tac-toe)
 <!-- ### My projects that I did while studying
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=swapi&hide_border=true)](https://github.com/pipisasa/swapi)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pipisasa&repo=market-template&hide_border=true)](https://github.com/pipisasa/market-template)
